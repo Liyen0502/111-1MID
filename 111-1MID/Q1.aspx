@@ -19,7 +19,7 @@
                 <asp:TextBox ID="tb_Account" runat="server" Width="400px" Height="20px"></asp:TextBox><br />
                 <asp:Label ID="Label1" runat="server" Text="連絡電話:(選填)"></asp:Label>
                 <asp:TextBox ID="tb_Phone" runat="server" Width="300px" Height="20px"></asp:TextBox>
-                <asp:Button ID="btn_Submit" runat="server" Text="掛號" Visible="false" Width="80px" />
+                <asp:Button ID="btn_Submit" runat="server" Text="掛號" Visible="False" Width="80px" />
             </asp:Panel>
             <br />
             <asp:Panel ID="pl_Msg" runat="server" Width="500px" BorderWidth="1px" Visible="false">
