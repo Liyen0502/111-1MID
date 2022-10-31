@@ -18,7 +18,7 @@
                 <asp:RadioButton ID="rb_Hid" runat="server"  GroupName="rb_Type" Text="病歷號"/>
                 <asp:TextBox ID="tb_Account" runat="server" Width="400px" Height="20px"></asp:TextBox><br />
                 <asp:Label ID="Label1" runat="server" Text="連絡電話:(選填)"></asp:Label>
-                <asp:TextBox ID="tb_Phone" runat="server" Width="300px" Height="30px"></asp:TextBox>
+                <asp:TextBox ID="tb_Phone" runat="server" Width="300px" Height="20px"></asp:TextBox>
                 <asp:Button ID="btn_Submit" runat="server" Text="掛號" Visible="false" Width="80px" />
             </asp:Panel>
             <br />
